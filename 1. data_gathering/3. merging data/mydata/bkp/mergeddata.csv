@@ -1,0 +1,788 @@
+,Unnamed: 0,society_name,property_title,property_rent,types_of_rooms_available,furnishing_details_lst,bedroom_count,bathroom_count,balcony_count,superBuiltUp_area_sqft,carpet_area_sqft,address_lst,available_for,furnishing_type,available_from,Posted_By_and_On,Flooring,Floor_Number,Power_Backup,Property_Age,Months_of_Notice,Gated_Community,Electricity_n_Water_Charges,property_features,avg_rating
+0,0,Milan Heights,3 BHK Flat for rent,"₹55,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,1600.0,1500.0,"Milan Heights
+Bicholi Mardana, Indore",Family Only,,01 August 2024,"Owner on Jun 18, 2024",Vitrified,8th   of 8 Floors,Partial,1 to 5 Year Old,1 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Lift(s)
+Maintenance Staff
+Swimming Pool
+Park
+Piped-gas
+Security Personnel
+Fitness Centre / GYM
+Club house / Community Center
+Rain Water Harvesting",4.0
+1,1,Earthshastra Nariman City,3 BHK Flat for rent,"₹15,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,1400.0,1000.0,"Earthshastra Nariman City
+Super Corridor, Indore",All,,Immediate,"Owner on Jun 20, 2024",Vitrified,5th   of 6 Floors,Full,0 to 1 Year Old,1 Months,Yes,Charges not included,,4.1
+2,2,ak Houses,2 BHK Flat for rent,"₹16,000 /month",,,2 Bedrooms,2 Bathrooms,No Balcony,,700.0,"ak Houses
+Chhawni, Indore",All,,Immediate,"Owner on Jul 01, 2024",,2nd   of 3 Floors,,0 to 1 Year Old,0 Months,,Charges not included,,
+3,3,Divya Vihar,2 BHK Flat for rent,"₹12,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1000.0,"Divya Vihar
+Bhawrasla, Indore",Family Only,,Immediate,"Owner on Jun 29, 2024",,2nd   of 7 Floors,,1 to 5 Year Old,0 Months,Yes,Charges not included,,3.8
+4,4,Sapphire Avenue,2 BHK Flat for rent,"₹35,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,1500.0,1100.0,"Sapphire Avenue
+MG Road, Indore",All,,Immediate,"Dealer on Jun 29, 2024",Vitrified,2nd   of 5 Floors,Full,0 to 1 Year Old,1 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Lift(s)
+Maintenance Staff
+Park
+Visitor Parking",
+5,5,"Kalani Nagar, Indore",3 Bedroom House for rent,"₹22,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,,,"Kalani Nagar, Indore",Family Only,,Immediate,"Owner on Jun 30, 2024",,,,1 to 5 Year Old,1 Months,,Charges not included,"Private Garden / Terrace
+Water Storage
+Visitor Parking",3.9
+6,6,Matrika Casa Greens,3 BHK Flat for rent,"₹22,000 /month",,,3 Bedrooms,2 Bathrooms,3 Balconies,1352.0,952.0,"Matrika Casa Greens
+Talawali Chanda, Indore","Family , Bachelors (Women Only)",,24 July 2024,"Owner on Jul 01, 2024",Marble,6th   of 6 Floors,Partial,1 to 5 Year Old,0 Months,Yes,Charges not included,"Lift(s)
+Swimming Pool
+Park
+Internet/wi-fi connectivity
+Shopping Centre
+Fitness Centre / GYM
+Club house / Community Center",4.0
+7,7,Vijay Nagar,Studio Apartments / 1 RK Flats for rent,"₹10,500 /month",,,1 Room,1 Bathroom,No Balcony,,450.0,"Vijay Nagar
+Scheme No 54 Indore, Indore",Bachelors (Men/Women),,Immediate,"Dealer on Jun 26, 2024",,Ground of 0 Floors,,1 to 5 Year Old,0 Months,,Charges included,,4.2
+8,8,"Bijli Nagar, Bicholi Road",2 Bedroom House for rent,"₹9,000 /month",,,2 Bedrooms,1 Bathroom,No Balcony,,,"Bijli Nagar, Bicholi Road
+Bijli Nagar, Indore",Bachelors (Women Only),,Immediate,"Owner on Jul 01, 2024",Mosaic,,,5 to 10 Year Old,1 Months,,Charges not included,"Water Storage
+Park
+Waste Disposal
+Rain Water Harvesting",
+9,9,"Mahalaxmi Nagar, Indore",1 BHK Independent Builder Floor for rent,"₹17,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,550.0,"Mahalaxmi Nagar, Indore",All,,Immediate,"Dealer on Jun 18, 2024",Wood,3rd   of 5 Floors,,1 to 5 Year Old,1 Months,,Charges not included,,4.3
+10,10,"Scheme No 74C, Indore",3 Bedroom House for rent,"₹30,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,,,"Scheme No 74C, Indore",All,,Immediate,"Dealer on Jun 19, 2024",,,,1 to 5 Year Old,0 Months,,Charges not included,,
+11,11,Mirchandani Shalimar Township,3 BHK Flat for rent,"₹26,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,1700.0,1250.0,"Mirchandani Shalimar Township
+AB Road indore , Indore",All,,Immediate,"Dealer on Jun 26, 2024",Vitrified,3rd   of 5 Floors,Partial,5 to 10 Year Old,1 Months,Yes,Charges not included,"Lift(s)
+Swimming Pool
+Piped-gas
+Natural Light
+Shopping Centre
+Fitness Centre / GYM
+Club house / Community Center",4.3
+12,12,Mirchandani Premium Towers,3 BHK Flat for rent,"₹32,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,2100.0,1600.0,"Mirchandani Premium Towers
+AB Road indore , Indore",All,,Immediate,"Dealer on Jun 03, 2024",Vitrified,6th   of 10 Floors,Partial,5 to 10 Year Old,1 Months,Yes,Charges not included,"Intercom Facility
+Lift(s)
+Maintenance Staff
+Swimming Pool
+Park
+Visitor Parking
+Natural Light
+Airy Rooms
+Shopping Centre
+Fitness Centre / GYM
+Club house / Community Center",4.3
+13,13,"Vijay Nagar , Indore",3 Bedroom House for rent,"₹25,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"Vijay Nagar , Indore","Family , Bachelors (Men Only)",,Immediate,"Dealer on Jun 30, 2024",Ceramic,,,1 to 5 Year Old,2 Months,,Charges not included,"Private Garden / Terrace
+Water Storage
+Rain Water Harvesting",4.4
+14,14,Luv Kush Apartments,1 BHK Flat for rent,"₹18,000 /month",,,,,,,,,,,,,,,,,,,,,
+15,15,Premier Towers,2 BHK Flat for rent,"₹25,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,1000.0,700.0,"Premier Towers
+Shalimar Township, Indore",All,,,"Dealer on Jul 02, 2024",Vitrified,2nd   of 6 Floors,,5 to 10 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Intercom Facility
+Maintenance Staff
+Water Storage
+Piped-gas
+Visitor Parking
+Swimming Pool
+Park
+Security Personnel
+Natural Light
+Spacious Interiors
+Shopping Centre
+Fitness Centre / GYM
+Club house / Community Center
+Water softening plant",4.0
+16,16,"SILVER PALACE, Indore",4 Bedroom House for rent,"₹25,000 /month",,,4 Bedrooms,4 Bathrooms,1 Balcony,,,"SILVER PALACE, Indore",All,,,"Owner on Jul 04, 2024",Marble,,,10+ Year Old,1 Months,,Charges included,,
+17,17,Shiv Vatika,3 BHK Flat for rent,"₹24,000 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,,1100.0,"Shiv Vatika
+MR 11, Indore",All,,,"Owner on Jul 04, 2024",Vitrified,6th   of 6 Floors,,0 to 1 Year Old,1 Months,,Charges not included,"Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Lift(s)
+Park
+Visitor Parking",
+18,18,Rukhmani Plaza,2 BHK Flat for rent,"₹25,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1149.0,"Rukhmani Plaza
+Rukhmani Plaza, A B Road, Palasia, Indore","Family , Bachelors (Women Only)",,,"Owner on Jul 03, 2024",Marble,1st   of 5 Floors,Partial,10+ Year Old,3 Months,Yes,Charges not included,,
+19,19,Man Royal Premium,2 BHK Flat for rent,"₹23,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,1150.0,865.0,"Man Royal Premium
+Vijay Nagar , Indore",Family Only,,,"Owner on Jul 03, 2024",,4th   of 6 Floors,,10+ Year Old,1 Months,,Charges not included,,3.8
+20,20,Chandana Apartment,3 BHK Flat for rent,"₹36,000 /month",,,3 Bedrooms,2 Bathrooms,1 Balcony,1550.0,1200.0,"Chandana Apartment
+New Palasia, Indore",All,,,"Owner on Jul 03, 2024",,3rd   of 5 Floors,,10+ Year Old,0 Months,Yes,Charges not included,"Security / Fire Alarm
+Lift(s)
+Maintenance Staff
+Park
+Visitor Parking",4.1
+21,21,Sterling Skyline,2 BHK Flat for rent,"₹16,500 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,800.0,"Sterling Skyline
+Bicholi Mardana, Indore",Family Only,,,"Owner on Jul 03, 2024",Ceramic,3rd   of 9 Floors,,10+ Year Old,1 Months,,Charges not included,,4.0
+22,22,Awho Complex,3 BHK Flat for rent,"₹24,500 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,,1560.0,"Awho Complex
+Vijay Nagar , Indore",Family Only,,,"Owner on Jul 03, 2024",Others,1st   of 10 Floors,Full,5 to 10 Year Old,2 Months,Yes,Charges not included,,4.4
+23,23,Shree Siddhivinayak Residency,2 BHK Flat for rent,"₹12,000 /month",,,2 Bedrooms,1 Bathroom,1 Balcony,,1000.0,"Shree Siddhivinayak Residency
+Hukma Khedi, Indore",All,,,"Owner on Jul 03, 2024",,2nd   of 3 Floors,,1 to 5 Year Old,0 Months,,Charges included,,
+24,24,Shree Siddhivinayak Residency,1 BHK Flat for rent,"₹12,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,1000.0,"Shree Siddhivinayak Residency
+LIG Square, Indore",All,,,"Owner on Jul 03, 2024",,2nd   of 3 Floors,,1 to 5 Year Old,6 Months,Yes,Charges not included,Park,
+25,0,BCM Paradise,3 BHK Flat for rent,"₹30,500 /month",,,3 Bedrooms,2 Bathrooms,3 Balconies,,1600.0,"BCM Paradise
+Tulsi Nagar , Indore",Family Only,,,"Owner on Jul 03, 2024",Vitrified,3rd   of 14 Floors,Full,5 to 10 Year Old,1 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Lift(s)
+Swimming Pool
+Park
+Fitness Centre / GYM",3.5
+26,1,Apollo DB City,1 Bedroom House for rent,"₹15,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,,"Apollo DB City
+Nipania, Indore","Family , Bachelors (Men Only)",,,"Owner on Jul 03, 2024",,,,1 to 5 Year Old,1 Months,,Charges not included,"Feng Shui / Vaastu Compliant
+Park
+Rain Water Harvesting",4.3
+27,2,Earthshastra Nariman City,1 BHK Flat for rent,"₹8,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,620.0,,"Earthshastra Nariman City
+Super Corridor, Indore",All,,,"Owner on Jul 03, 2024",,5th   of 6 Floors,,0 to 1 Year Old,0 Months,,Charges included,,4.1
+28,3,Hig Flat,1 BHK Flat for rent,"₹15,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,480.0,"Hig Flat
+Vijay Nagar , Indore",All,,,"Owner on Jul 03, 2024",,1st   of 2 Floors,,1 to 5 Year Old,1 Months,,Charges not included,,4.4
+29,4,Sata Siddhi Solitaire,2 BHK Flat for rent,"₹10,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,950.0,"Sata Siddhi Solitaire
+Santer, Indore",Family Only,,,"Owner on Jul 03, 2024",,6th   of 7 Floors,,10+ Year Old,0 Months,,Charges not included,,
+30,5,shellputri paradise rajendra nagar,2 BHK Flat for rent,"₹16,500 /month",,,2 Bedrooms,2 Bathrooms,3+ Balconies,1250.0,845.0,"shellputri paradise rajendra nagar
+dhanwantari nagar, Indore",All,,,"Owner on Jul 03, 2024",Vitrified,1st   of 3 Floors,,1 to 5 Year Old,0 Months,,Charges not included,,
+31,6,Parinay Homes,3 BHK Flat for rent,"₹40,000 /month",,,3 Bedrooms,3 Bathrooms,3+ Balconies,2025.0,1550.0,"Parinay Homes
+Bicholi Hapsi, Indore",Family Only,,,"Owner on Jul 03, 2024",Vitrified,3rd   of 6 Floors,,10+ Year Old,1 Months,Yes,Charges not included,"Lift(s)
+False Ceiling Lighting
+Water Storage
+Bank Attached Property
+Piped-gas
+Natural Light
+Internet/wi-fi connectivity
+Airy Rooms
+Spacious Interiors
+Low Density Society
+Shopping Centre
+Fitness Centre / GYM
+Water softening plant",
+32,7,IDA Building Scheme 155,2 BHK Flat for rent,"₹12,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1050.0,"IDA Building Scheme 155
+Scheme 155, Indore",All,,,"Owner on Jul 03, 2024",Vitrified,5th   of 6 Floors,,0 to 1 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+False Ceiling Lighting
+Park
+Recently Renovated
+Security Personnel
+Natural Light
+Airy Rooms
+Spacious Interiors",
+33,8,P Square,2 Bedroom House for rent,"₹18,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"P Square
+Scheme No 114 Indore, Indore",All,,,"Owner on Jul 03, 2024",,,,5 to 10 Year Old,1 Months,,Charges included,,
+34,9,mr -3,Studio Apartments / 1 RK Flats for rent,"₹8,000 /month",,,1 Room,1 Bathroom,No Balcony,,250.0,"mr -3
+Mahalaxmi Nagar, Indore",Bachelors (Men/Women),,,"Owner on Jul 03, 2024",,2nd   of 2 Floors,,1 to 5 Year Old,0 Months,,Charges not included,,4.3
+35,10,Nariman City,3 Bedroom House for rent,"₹22,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"Nariman City
+Chhota Bangarda, Indore",Family Only,,,"Owner on Jul 02, 2024",,,,0 to 1 Year Old,1 Months,Yes,Charges included,"Swimming Pool
+Water Storage
+Park
+Natural Light
+Fitness Centre / GYM
+Club house / Community Center
+Rain Water Harvesting",3.7
+36,11,Nirmala Apartment,2 BHK Independent Builder Floor for rent,"₹16,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,750.0,"Nirmala Apartment
+Manbhavan Nagar, Indore",Family Only,,,"Owner on Jul 02, 2024",Ceramic,1st   of 3 Floors,,10+ Year Old,1 Months,Yes,Charges not included,"Water Storage
+Visitor Parking
+Rain Water Harvesting",
+37,12,"84, Bijli Nagar",2 Bedroom House for rent,"₹25,000 /month",,,2 Bedrooms,3 Bathrooms,2 Balconies,,,"84, Bijli Nagar
+Bijli Nagar, Indore",Family Only,,,"Owner on Jul 02, 2024",Marble,,,10+ Year Old,1 Months,,Charges included,"Water Storage
+Park
+Visitor Parking",
+38,13,Pushpa Sanskruti Royal City,Studio Apartments / 1 RK Flats for rent,"₹4,000 /month",,,1 Room,1 Bathroom,1 Balcony,,200.0,"Pushpa Sanskruti Royal City
+Rau, Indore",Bachelors (Men/Women),,,"Owner on Jul 02, 2024",,3rd   of 3 Floors,,5 to 10 Year Old,1 Months,,Charges not included,"Feng Shui / Vaastu Compliant
+Park",3.9
+39,14,"Bhakt Prahlad Nagar, Indore",1 Bedroom House for rent,"₹5,500 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,,"Bhakt Prahlad Nagar, Indore",Bachelors (Men/Women),,,"Owner on Jul 02, 2024",,,,10+ Year Old,1 Months,,Charges not included,Private Garden / Terrace,
+40,15,IMC Palash Parisar,2 BHK Flat for rent,"₹15,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,767.0,"IMC Palash Parisar
+Rau, Indore","Family , Bachelors (Men Only)",,,"Owner on Jul 02, 2024",,8th   of 9 Floors,,1 to 5 Year Old,2 Months,,Charges not included,,3.9
+41,16,Shekhar Paradise,2 BHK Flat for rent,"₹18,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1025.0,"Shekhar Paradise
+Nipania, Indore",Family Only,,,"Owner on Jul 02, 2024",Ceramic,5th   of 8 Floors,,5 to 10 Year Old,1 Months,,Charges not included,,4.3
+42,17,Shri Krishna Paradise Phase 2,2 Bedroom House for rent,"₹12,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,,"Shri Krishna Paradise Phase 2
+Rau, Indore",Family Only,,,"Owner on Jul 02, 2024",Vitrified,,,1 to 5 Year Old,1 Months,,Charges not included,"Feng Shui / Vaastu Compliant
+Private Garden / Terrace
+Water Storage
+No open drainage around
+Visitor Parking
+Security Personnel",3.9
+43,18,Malwadeep,1 BHK Flat for rent,"₹10,500 /month",,,1 Bedroom,2 Bathrooms,1 Balcony,,600.0,"Malwadeep
+Sapna Sangeeta Road, Indore",All,,,"Owner on Jul 02, 2024",Mosaic,2nd   of 4 Floors,,5 to 10 Year Old,1 Months,,Charges not included,,4.0
+44,19,IDA scheme No 155 M-2/B-1. 605,2 BHK Flat for rent,"₹18,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,103.7,"IDA scheme No 155 M-2/B-1. 605
+Scheme 155, Indore",Family Only,,,"Owner on Jul 01, 2024",Marble,6th   of 6 Floors,,0 to 1 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Lift(s)
+Park
+Visitor Parking",
+45,20,deepshree,1 BHK Flat for rent,"₹7,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,400.0,,"deepshree
+Girdhar Nagar, Indore",Bachelors (Men Only),,,"Owner on Jul 01, 2024",,2nd   of 3 Floors,,5 to 10 Year Old,0 Months,,Charges included,,
+46,21,"Indus Satellite Greens, Indore",2 Bedroom House for rent,"₹13,000 /month",,,2 Bedrooms,2 Bathrooms,No Balcony,,1000.0,"Indus Satellite Greens, Indore",Family Only,,,"Owner on Jul 01, 2024",,,,1 to 5 Year Old,0 Months,Yes,Charges not included,,
+47,22,"Indus Satellite Greens, Indore",2 Bedroom House for rent,"₹13,000 /month",,,2 Bedrooms,2 Bathrooms,No Balcony,,,"Indus Satellite Greens, Indore",Family Only,,,"Owner on Jul 01, 2024",,,,1 to 5 Year Old,0 Months,,Charges not included,,
+48,23,Shivalika The Address colony,2 BHK Flat for rent,"₹15,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1000.0,"Shivalika The Address colony
+Pipliya Kumar, Indore",Family Only,,,"Owner on Jul 01, 2024",Ceramic,1st   of 4 Floors,Full,1 to 5 Year Old,1 Months,Yes,Charges not included,,
+49,24,"Nipania, Indore",3 Bedroom House for rent,"₹18,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"Nipania, Indore",Family Only,,,"Owner on Jul 01, 2024",Vitrified,,,10+ Year Old,1 Months,Yes,Charges included,"Maintenance Staff
+Water Storage",4.3
+50,0,Jiyo Samarth Park,3 Bedroom House for rent,"₹18,000 /month",,,3 Bedrooms,4 Bathrooms,1 Balcony,,2000.0,"Jiyo Samarth Park
+Mhow, Indore",Family Only,,,"Owner on Jul 01, 2024",,,,5 to 10 Year Old,0 Months,,Charges not included,"Feng Shui / Vaastu Compliant
+Private Garden / Terrace
+Water Storage
+Park",4.1
+51,1,Emerald Pratham,2 BHK Flat for rent,"₹12,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,1027.0,,"Emerald Pratham
+Devguradia, Indore",Family Only,,,"Owner on Jul 01, 2024",Marble,6th   of 6 Floors,Full,1 to 5 Year Old,1 Months,Yes,Charges not included,"Power Back-up
+Lift(s)
+Park",
+52,2,Vastu Silicon City,1 Bedroom House for rent,"₹10,000 /month",,,1 Bedroom,1 Bathroom,3+ Balconies,,,"Vastu Silicon City
+Rau Road , Indore",Family Only,,,"Owner on Jul 01, 2024",Vitrified,,,5 to 10 Year Old,1 Months,Yes,Charges not included,,4.1
+53,3,ida scheme 94,3 Bedroom House for rent,"₹28,000 /month",,,3 Bedrooms,2 Bathrooms,No Balcony,,,"ida scheme 94
+Bengali Square , Indore",All,,,"Owner on Jul 01, 2024",Vitrified,,,5 to 10 Year Old,1 Months,,Charges not included,,4.2
+54,4,Signature Heights,2 BHK Flat for rent,"₹18,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,850.0,"Signature Heights
+Pipliyahana, Indore",Family Only,,,"Owner on Jul 01, 2024",Ceramic,9th   of 10 Floors,Partial,Under Construction,1 Months,Yes,Charges included,,4.0
+55,5,Silver Springs Phase 2,3 BHK Flat for rent,"₹20,000 /month",,,3 Bedrooms,2 Bathrooms,1 Balcony,1211.0,,"Silver Springs Phase 2
+Mundla Nayta, Indore",Family Only,,,"Owner on Jul 01, 2024",Vitrified,4th   of 6 Floors,Full,5 to 10 Year Old,1 Months,Yes,Charges included,"Power Back-up
+Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Lift(s)
+Swimming Pool
+Maintenance Staff
+Water Storage
+Park
+Visitor Parking
+Fitness Centre / GYM
+Club house / Community Center
+Rain Water Harvesting",
+56,6,"Bangali Square, Indore",2 Bedroom House for rent,"₹9,000 /month",,,2 Bedrooms,1 Bathroom,No Balcony,,,"Bangali Square, Indore",Bachelors (Women Only),,,"Owner on Jun 30, 2024",Mosaic,,,5 to 10 Year Old,1 Months,,Charges not included,"Water Storage
+Waste Disposal
+Rain Water Harvesting",4.2
+57,7,M Chugh Grande Exotica,3 BHK Flat for rent,"₹42,000 /month",,,3 Bedrooms,2 Bathrooms,No Balcony,1655.0,,"M Chugh Grande Exotica
+Bicholi Mardana, Indore",All,,,"Owner on Jun 30, 2024",,10th   of 10 Floors,,1 to 5 Year Old,0 Months,Yes,Charges included,"Private Garden / Terrace
+Swimming Pool
+Visitor Parking
+Security Personnel
+Fitness Centre / GYM
+Club house / Community Center",4.0
+58,8,scheme no 78 part 2 pink city dewas naka,1 BHK Flat for rent,"₹9,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,700.0,"scheme no 78 part 2 pink city dewas naka
+Dewas Naka Panchvati, Indore","Family , Bachelors (Men Only)",,,"Owner on Jun 30, 2024",Ceramic,Ground of 1 Floors,,5 to 10 Year Old,1 Months,,Charges not included,,3.9
+59,9,Gulmohar Complex,1 BHK Flat for rent,"₹10,000 /month",,,1 Bedroom,1 Bathroom,2 Balconies,,700.0,"Gulmohar Complex
+Scheme No 136 Indore, Indore",All,,,"Owner on Jun 30, 2024",,4th   of 6 Floors,,1 to 5 Year Old,1 Months,Yes,Charges not included,,
+60,10,ABL Palm Exotica,3 Bedroom House for rent,"₹25,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,980.0,"ABL Palm Exotica
+Mahalaxmi Nagar, Indore",All,,,"Owner on Jun 30, 2024",Ceramic,,,5 to 10 Year Old,1 Months,Yes,Charges not included,,4.3
+61,11,House No. 43 Gulab Bagh Colony,1 Bedroom House for rent,"₹11,500 /month",,,1 Bedroom,1 Bathroom,No Balcony,,400.0,"House No. 43 Gulab Bagh Colony
+Vijay Nagar , Indore",Family Only,,,"Owner on Jun 29, 2024",Ceramic,,Full,5 to 10 Year Old,1 Months,,Charges not included,,4.4
+62,12,royal residency world cup sqaure,4 Bedroom House for rent,"₹8,000 /month",,,4 Bedrooms,4 Bathrooms,1 Balcony,,,"royal residency world cup sqaure
+world cup sqaure, Indore",Bachelors (Men/Women),,,"Owner on Jun 29, 2024",Marble,,,5 to 10 Year Old,1 Months,Yes,Charges not included,,
+63,13,Ln city,Studio Apartments / 1 RK Flats for rent,"₹6,500 /month",,,1 Room,1 Bathroom,1 Balcony,,400.0,"Ln city
+Gandhi Nagar, Indore","Family , Bachelors (Women Only)",,,"Owner on Jun 29, 2024",Vitrified,1st   of 3 Floors,,1 to 5 Year Old,1 Months,Yes,Charges not included,,
+64,14,"Mhow, Indore",3 Bedroom House for rent,"₹8,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,,,"Mhow, Indore",Family Only,,,"Owner on Jun 29, 2024",,,,5 to 10 Year Old,0 Months,,Charges not included,,4.1
+65,15,primeum Paradis,3 BHK Flat for rent,"₹25,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,1650.0,,"primeum Paradis
+Snehlataganj, Indore",Family Only,,,"Owner on Jun 29, 2024",,4th   of 4 Floors,,5 to 10 Year Old,0 Months,,Charges included,,
+66,16,Vallabh Lifestyle,1 BHK Flat for rent,"₹9,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,410.0,"Vallabh Lifestyle
+Limbodi, Indore",Bachelors (Men/Women),,,"Owner on Jun 29, 2024",Marble,1st   of 4 Floors,,Under Construction,1 Months,,Charges not included,,3.9
+67,17,Narang Silver Park,3 Bedroom House for rent,"₹10,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"Narang Silver Park
+AB Bypass Road, Indore",All,,,"Owner on Jun 29, 2024",Vitrified,,,1 to 5 Year Old,0 Months,Yes,Charges included,,4.2
+68,18,indipendent,2 BHK Flat for rent,"₹20,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,800.0,"indipendent
+Chandra Nagar, Indore",All,,,"Owner on Jun 29, 2024",Granite,1st   of 3 Floors,,0 to 1 Year Old,1 Months,,Charges not included,,
+69,19,140-B,2 Bedroom House for rent,"₹16,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"140-B
+Surya Dev Nagar, Indore",All,,,"Owner on Jun 29, 2024",Stone,,,5 to 10 Year Old,2 Months,,Charges not included,Park,3.9
+70,20,pradeep apartment bargal complex,1 BHK Flat for rent,"₹15,000 /month",,,1 Bedroom,2 Bathrooms,1 Balcony,1000.0,,"pradeep apartment bargal complex
+Palsikar Colony, Indore",Bachelors (Women Only),,,"Owner on Jun 28, 2024",,1st   of 3 Floors,,5 to 10 Year Old,0 Months,,Charges included,,
+71,21,Aravalli Parisar,3 BHK Flat for rent,"₹17,500 /month",,,3 Bedrooms,2 Bathrooms,1 Balcony,1151.0,,"Aravalli Parisar
+Bhuri Tekri, Indore",All,,,"Owner on Jun 27, 2024",,8th   of 9 Floors,,0 to 1 Year Old,0 Months,,Charges not included,,
+72,22,Nehal Avenue,3 BHK Flat for rent,"₹15,000 /month",,,3 Bedrooms,2 Bathrooms,1 Balcony,,,"Nehal Avenue
+Goyal Nagar, Indore",Family Only,,,"Owner on Jun 27, 2024",Vitrified,1st   of 3 Floors,,10+ Year Old,1 Months,Yes,Charges not included,"Maintenance Staff
+Water Storage",
+73,23,Geetanjali Residency,2 Bedroom House for rent,"₹10,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"Geetanjali Residency
+Palhar Nagar, Indore",Bachelors (Men Only),,,"Owner on Jun 27, 2024",Ceramic,,,0 to 1 Year Old,1 Months,,Charges not included,,
+74,24,Skye Luxuria 20,4 BHK Flat for rent,₹1.25 Lac /month,,,4 Bedrooms,4 Bathrooms,3+ Balconies,3500.0,,"Skye Luxuria 20
+Vijay Nagar , Indore",Family Only,,,"Owner on Jun 26, 2024",,17th   of 23 Floors,Full,Under Construction,2 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Intercom Facility
+Lift(s)
+Maintenance Staff
+Swimming Pool
+Water Storage
+Park
+Piped-gas
+Visitor Parking
+Fitness Centre / GYM
+Club house / Community Center",
+75,0,Skye Luxuria 20,4 BHK Flat for rent,₹1.25 Lac /month,,,4 Bedrooms,4 Bathrooms,3+ Balconies,3500.0,,"Skye Luxuria 20
+Vijay Nagar , Indore",Family Only,,,"Owner on Jun 26, 2024",,17th   of 23 Floors,Full,Under Construction,2 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Intercom Facility
+Lift(s)
+Maintenance Staff
+Swimming Pool
+Water Storage
+Park
+Piped-gas
+Visitor Parking
+Fitness Centre / GYM
+Club house / Community Center",4.4
+76,1,Shiv Ganga Apartment,2 BHK Flat for rent,"₹18,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,1000.0,"Shiv Ganga Apartment
+Vidya Nagar , Indore",Bachelors (Women Only),,,"Owner on Jun 26, 2024",Vitrified,1st   of 3 Floors,,10+ Year Old,1 Months,Yes,Charges not included,"Water Storage
+Visitor Parking
+Natural Light
+Airy Rooms
+Spacious Interiors",
+77,2,race course road opp rani sati gate,1 BHK Flat for rent,"₹25,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,1250.0,800.0,"race course road opp rani sati gate
+opp dp jewellers office, Indore",All,,,"Owner on Jun 26, 2024",Vitrified,3rd   of 3 Floors,Partial,0 to 1 Year Old,2 Months,,Charges not included,,
+78,3,"Vishnupuri Colony, Indore",1 BHK Independent Builder Floor for rent,"₹13,000 /month",,,1 Bedroom,2 Bathrooms,No Balcony,,600.0,"Vishnupuri Colony, Indore",Family Only,,,"Owner on Jun 26, 2024",Marble,Ground of 3 Floors,,10+ Year Old,1 Months,,Charges not included,,4.2
+79,4,Shrikrishna Avenue,2 BHK Flat for rent,"₹13,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,730.0,"Shrikrishna Avenue
+Limbodi, Indore",Family Only,,,"Owner on Jun 26, 2024",,3rd   of 4 Floors,,5 to 10 Year Old,1 Months,Yes,Charges not included,"Lift(s)
+Visitor Parking",
+80,5,"Scheme No 78, Indore",1 Bedroom House for rent,"₹15,000 /month",,,1 Bedroom,2 Bathrooms,1 Balcony,,,"Scheme No 78, Indore",All,,,"Owner on Jun 26, 2024",,,,0 to 1 Year Old,0 Months,,Charges included,,4.1
+81,6,Karol Bagh Grand,2 BHK Flat for rent,"₹16,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,1200.0,,"Karol Bagh Grand
+Bhawrasla, Indore",All,,,"Owner on Jun 27, 2024",Vitrified,2nd   of 6 Floors,,1 to 5 Year Old,1 Months,Yes,Charges included,"Power Back-up
+Lift(s)
+Centrally Air Conditioned
+Maintenance Staff
+Piped-gas
+Swimming Pool
+Park
+Security Personnel
+Natural Light
+Internet/wi-fi connectivity
+Airy Rooms
+Spacious Interiors
+Shopping Centre
+Fitness Centre / GYM
+Rain Water Harvesting
+Club house / Community Center",3.8
+82,7,"Sukhliya, Indore",1 BHK Independent Builder Floor for rent,"₹9,000 /month",,,1 Bedroom,2 Bathrooms,No Balcony,,800.0,"Sukhliya, Indore","Family , Bachelors (Women Only)",,,"Owner on Jun 25, 2024",Stone,Ground of 2 Floors,,5 to 10 Year Old,0 Months,,Charges not included,,4.0
+83,8,Adarsh Sanskar Velly,2 Bedroom House for rent,"₹12,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"Adarsh Sanskar Velly
+Depalpur, Indore",Family Only,,,"Owner on Jun 25, 2024",,,,0 to 1 Year Old,0 Months,,Charges included,,
+84,9,arawali parisar,2 BHK Flat for rent,"₹15,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,950.0,,"arawali parisar
+Bhuri Tekri, Indore",All,,,"Owner on Jun 25, 2024",,7th   of 9 Floors,,0 to 1 Year Old,1 Months,,Charges not included,"Security / Fire Alarm
+Lift(s)
+Maintenance Staff
+Water Storage
+Park
+Visitor Parking",
+85,10,ashoka regency,Studio Apartments / 1 RK Flats for rent,"₹11,000 /month",,,1 Room,1 Bathroom,No Balcony,,100.0,"ashoka regency
+Mahalaxmi Nagar, Indore",All,,,"Owner on Jun 25, 2024",Granite,2nd   of 3 Floors,Full,0 to 1 Year Old,1 Months,,Charges included,"Maintenance Staff
+Visitor Parking",4.3
+86,11,DB Pride,2 BHK Flat for rent,"₹35,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,1130.0,750.0,"DB Pride
+Talawali Chanda, Indore",Family Only,,,"Owner on Jun 25, 2024",Vitrified,14th   of 14 Floors,Full,1 to 5 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Lift(s)
+Water purifier
+High Ceiling Height
+Maintenance Staff
+False Ceiling Lighting
+Piped-gas
+Visitor Parking
+Swimming Pool
+Park
+Security Personnel
+Natural Light
+Airy Rooms
+Spacious Interiors
+Low Density Society
+Shopping Centre
+Fitness Centre / GYM
+Club house / Community Center",
+87,12,Aravali Parisar,3 BHK Flat for rent,"₹21,000 /month",,,3 Bedrooms,2 Bathrooms,1 Balcony,,,"Aravali Parisar
+Bhuri Tekri, Indore","Family , Bachelors (Women Only)",,,"Owner on Jun 24, 2024",,8th   of 9 Floors,,0 to 1 Year Old,0 Months,Yes,Charges not included,,
+88,13,Sukhliya Square,Studio Apartments / 1 RK Flats for rent,"₹10,999 /month",,,1 Room,1 Bathroom,1 Balcony,,100.0,"Sukhliya Square
+Sukhliya, Indore",All,,,"Owner on Jun 26, 2024",Others,Ground of 3 Floors,,1 to 5 Year Old,0 Months,,Charges not included,"Private Garden / Terrace
+Water purifier
+Internet/wi-fi connectivity",4.0
+89,14,"Umang Park Colony, Chhota Bangarda Road, Indore",1 Bedroom House for rent,"₹5,000 /month",,,1 Bedroom,1 Bathroom,No Balcony,,,"Umang Park Colony, Chhota Bangarda Road, Indore",Family Only,,,"Owner on Jun 24, 2024",Marble,,,1 to 5 Year Old,1 Months,,Charges included,,
+90,15,Sai Gold City,2 BHK Independent Builder Floor for rent,"₹10,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1300.0,"Sai Gold City
+Arandia, Indore",Family Only,,,"Owner on Jun 24, 2024",Ceramic,1st   of 2 Floors,,0 to 1 Year Old,1 Months,Yes,Charges included,"Feng Shui / Vaastu Compliant
+Private Garden / Terrace
+False Ceiling Lighting
+Water Storage
+Park
+Visitor Parking
+Natural Light
+Internet/wi-fi connectivity
+Airy Rooms
+Spacious Interiors
+Rain Water Harvesting",
+91,16,All Avenue,2 BHK Flat for rent,"₹16,000 /month",,,2 Bedrooms,2 Bathrooms,No Balcony,,1700.0,"All Avenue
+Khajrana ring road, Indore",Family Only,,,"Owner on Jun 24, 2024",,Ground of 3 Floors,,5 to 10 Year Old,0 Months,,Charges included,,
+92,17,aravali parisar,2 BHK Flat for rent,"₹15,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,663.0,"aravali parisar
+Bicholi Hapsi, Indore",Family Only,,,"Owner on Jun 24, 2024",Vitrified,1st   of 8 Floors,Partial,0 to 1 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Lift(s)
+Maintenance Staff
+Water Storage
+No open drainage around
+Bank Attached Property
+Visitor Parking
+Park
+Security Personnel
+Natural Light
+Airy Rooms
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center",
+93,18,Shubham Nariman Enclave,2 BHK Flat for rent,"₹14,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,1300.0,"Shubham Nariman Enclave
+Super Corridor, Indore",All,,,"Owner on Jun 24, 2024",Stone,2nd   of 6 Floors,Full,1 to 5 Year Old,1 Months,Yes,Charges not included,"Power Back-up
+Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Intercom Facility
+Lift(s)
+Swimming Pool
+Maintenance Staff
+Water Storage
+Park
+Visitor Parking
+Fitness Centre / GYM
+Club house / Community Center",4.1
+94,19,"Behind Mahindra Show room, Indore",2 Bedroom House for rent,"₹17,500 /month",,,2 Bedrooms,1 Bathroom,No Balcony,,,"Behind Mahindra Show room, Indore",Family Only,,,"Owner on Jun 24, 2024",Vitrified,,,1 to 5 Year Old,2 Months,,Charges not included,,
+95,20,"Part 1 Scheme No 114, Indore",2 Bedroom House for rent,"₹16,000 /month",,,2 Bedrooms,2 Bathrooms,No Balcony,,900.0,"Part 1 Scheme No 114, Indore",Family Only,,,"Owner on Jun 24, 2024",,,,1 to 5 Year Old,0 Months,,Charges not included,,
+96,21,b 9302 indore,2 BHK Flat for rent,"₹13,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,950.0,,"b 9302 indore
+Sahara City Homes, Indore",All,,,"Owner on Jun 24, 2024",,3rd   of 7 Floors,,1 to 5 Year Old,0 Months,,Charges included,,
+97,22,Bajaj G Dream,1 BHK Flat for rent,"₹8,499 /month",,,1 Bedroom,2 Bathrooms,1 Balcony,,970.0,"Bajaj G Dream
+Vigyan Nagar, Indore",All,,,"Owner on Jun 23, 2024",Stone,2nd   of 2 Floors,,5 to 10 Year Old,0 Months,,Charges not included,Water Storage,
+98,23,Vista Victoria Urbane Oasis,2 BHK Flat for rent,"₹15,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,850.0,"Vista Victoria Urbane Oasis
+Manu Shree Nagar, Indore","Family , Bachelors (Women Only)",,,"Owner on Jun 23, 2024",,4th   of 7 Floors,,1 to 5 Year Old,1 Months,Yes,Charges not included,"Lift(s)
+Park
+Visitor Parking
+Security Personnel",
+99,24,Platinum Paradise,3 Bedroom House for rent,"₹48,000 /month",,,3 Bedrooms,3 Bathrooms,3 Balconies,,,"Platinum Paradise
+Khandwa Road , Indore",All,,,"Owner on Jun 22, 2024",Vitrified,,Partial,1 to 5 Year Old,1 Months,Yes,Charges not included,"Private Garden / Terrace
+Water Storage
+Park
+Visitor Parking",3.7
+100,0,Platinum Paradise,3 Bedroom House for rent,"₹48,000 /month",,,3 Bedrooms,3 Bathrooms,3 Balconies,,,"Platinum Paradise
+Khandwa Road , Indore",All,,,"Owner on Jun 22, 2024",Vitrified,,Partial,1 to 5 Year Old,1 Months,Yes,Charges not included,"Private Garden / Terrace
+Water Storage
+Park
+Visitor Parking",3.7
+101,1,tripathi boy's pg,1 BHK Independent Builder Floor for rent,"₹6,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,1.0,,"tripathi boy's pg
+Pandit Dindayal Upadhyay Nagar, Indore",Bachelors (Men Only),,,"Owner on Jun 22, 2024",,Ground of 1 Floors,,1 to 5 Year Old,0 Months,,Charges included,,
+102,2,Aadish Iris Park,2 BHK Flat for rent,"₹25,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,600.0,"Aadish Iris Park
+Talawali Chanda, Indore",Family Only,,,"Owner on Jun 21, 2024",Marble,1st   of 6 Floors,Partial,1 to 5 Year Old,2 Months,Yes,Charges not included,"Lift(s)
+Swimming Pool
+Water Storage
+Park
+Visitor Parking
+Fitness Centre / GYM
+Club house / Community Center",4.0
+103,3,Kusum Sanskruti Smart City,2 Bedroom House for rent,"₹15,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"Kusum Sanskruti Smart City
+Super Corridor, Indore",Family Only,,,"Owner on Jun 21, 2024",Vitrified,,,0 to 1 Year Old,1 Months,Yes,Charges not included,,4.1
+104,4,England city pipliya pala,Studio Apartments / 1 RK Flats for rent,"₹7,000 /month",,,1 Room,1 Bathroom,No Balcony,,250.0,"England city pipliya pala
+Ambikapuri, Indore",Bachelors (Men/Women),,,"Owner on Jun 20, 2024",,Ground of 1 Floors,,0 to 1 Year Old,0 Months,,Charges included,,
+105,5,society,1 BHK Independent Builder Floor for rent,"₹16,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,2500.0,,"society
+Hare Krishna Vihar, Indore",All,,,"Owner on Jun 20, 2024",Others,3rd   of 3 Floors,Full,0 to 1 Year Old,1 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Water purifier
+Maintenance Staff
+Water Storage
+Park
+Visitor Parking
+Rain Water Harvesting",
+106,6,apartment,Studio Apartments / 1 RK Flats for rent,"₹16,000 /month",,,1 Room,1 Bathroom,1 Balcony,,,"apartment
+Hare Krishna Vihar, Indore",All,,,"Owner on Jun 20, 2024",Others,3rd   of 3 Floors,Full,0 to 1 Year Old,1 Months,Yes,Charges not included,,
+107,7,Lotus Park,Studio Apartments / 1 RK Flats for rent,"₹14,000 /month",,,1 Room,1 Bathroom,1 Balcony,,1250.0,"Lotus Park
+Jakhiya, Indore",Family Only,,,"Owner on Jun 20, 2024",Vitrified,Ground of 3 Floors,,1 to 5 Year Old,1 Months,Yes,Charges included,"Lift(s)
+Water Storage
+Park",
+108,8,EH 15,1 BHK Flat for rent,"₹14,000 /month",,,1 Bedroom,2 Bathrooms,No Balcony,,450.0,"EH 15
+Scheme No 54 Indore, Indore","Family , Bachelors (Women Only)",,,"Owner on Jun 19, 2024",Marble,1st   of 1 Floors,,10+ Year Old,1 Months,,Charges not included,Water Storage,4.2
+109,9,Sakar Elite Apex,1 Bedroom House for rent,"₹15,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,,"Sakar Elite Apex
+Sector R Mahalakshmi Nagar, Indore",All,,,"Owner on Jun 19, 2024",,,,1 to 5 Year Old,2 Months,,Charges not included,,
+110,10,"Silicon City, Indore",2 Bedroom House for rent,"₹14,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"Silicon City, Indore",Family Only,,,"Owner on Jun 19, 2024",Vitrified,,,5 to 10 Year Old,1 Months,,Charges not included,,4.0
+111,11,IMC Aravali Parisar,3 BHK Flat for rent,"₹20,000 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,1151.0,,"IMC Aravali Parisar
+Bicholi Hapsi, Indore",Family Only,,,"Owner on Jun 19, 2024",Vitrified,8th   of 9 Floors,,0 to 1 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Lift(s)
+Maintenance Staff
+No open drainage around
+Park
+Visitor Parking
+Natural Light
+Club house / Community Center
+Rain Water Harvesting",
+112,12,"Bhagirath Pura, Indore",4 Bedroom House for rent,"₹15,000 /month",,,4 Bedrooms,5 Bathrooms,3+ Balconies,,,"Bhagirath Pura, Indore",All,,,"Owner on Jun 19, 2024",,,,0 to 1 Year Old,0 Months,,Charges included,,
+113,13,Karol Bagh Grand,2 Bedroom House for rent,"₹14,500 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,,"Karol Bagh Grand
+Super Corridor, Indore",All,,,"Owner on Jun 19, 2024",,,,1 to 5 Year Old,0 Months,,Charges included,,
+114,14,Udayraj Galaxy,2 BHK Flat for rent,"₹13,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,,200.0,"Udayraj Galaxy
+New Rani Bagh, Indore",All,,,"Owner on Jun 22, 2024",,1st   of 4 Floors,,1 to 5 Year Old,0 Months,,Charges included,,
+115,15,"Mamta Nagar, Indore",1 BHK Independent Builder Floor for rent,"₹40,000 /month",,,1 Bedroom,1 Bathroom,No Balcony,4000.0,,"Mamta Nagar, Indore",Bachelors (Men Only),,,"Owner on Jul 04, 2024",Cement,Ground of 1 Floors,Full,1 to 5 Year Old,1 Months,,Charges included,,
+116,16,sundar,2 BHK Flat for rent,"₹20,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,850.0,"sundar
+Indrapuri Colony, Indore",All,,,"Owner on Jun 20, 2024",Marble,3rd   of 4 Floors,,5 to 10 Year Old,1 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Lift(s)
+Maintenance Staff
+Water Storage
+No open drainage around
+Park
+Piped-gas
+Visitor Parking",4.0
+117,17,"Mhow Naka Square, Indore",4 BHK Independent Builder Floor for rent,"₹30,000 /month",,,4 Bedrooms,3 Bathrooms,2 Balconies,,750.0,"Mhow Naka Square, Indore",Family Only,,,"Owner on Jun 19, 2024",,2nd   of 2 Floors,,10+ Year Old,0 Months,,Charges not included,,
+118,18,"Manu Shree Nagar, Indore",2 Bedroom House for rent,"₹17,000 /month",,,2 Bedrooms,2 Bathrooms,No Balcony,,,"Manu Shree Nagar, Indore",Family Only,,,"Owner on Jun 28, 2024",,,,5 to 10 Year Old,1 Months,,Charges not included,,
+119,19,"aravali parisar, bhuri tekri",3 BHK Flat for rent,"₹16,000 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,,67.69,"aravali parisar, bhuri tekri
+Bhuri Tekri, Indore",All,,Immediate,"Owner on May 06, 2024",,9th   of 9 Floors,,0 to 1 Year Old,1 Months,,Charges not included,"Security / Fire Alarm
+Lift(s)
+Maintenance Staff
+Water Storage
+Park
+Visitor Parking",
+120,20,Sarthak Singapore Lifestyle,1 Bedroom House for rent,"₹11,500 /month",,,1 Bedroom,2 Bathrooms,1 Balcony,,,"Sarthak Singapore Lifestyle
+Super Corridor, Indore",All,,Immediate,"Owner on Jun 17, 2024",,,,0 to 1 Year Old,0 Months,,Charges included,,4.1
+121,21,SAKAR NRI CITY GRAM PANCHAYAT BADIYAKIMA,1 BHK Flat for rent,"₹8,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,450.0,"SAKAR NRI CITY GRAM PANCHAYAT BADIYAKIMA
+Badia Keema, Indore",Bachelors (Men Only),,Immediate,"Owner on May 20, 2024",Vitrified,1st   of 3 Floors,Full,0 to 1 Year Old,1 Months,,Charges not included,,
+122,22,aashirwad apartment,Studio Apartments / 1 RK Flats for rent,"₹10,000 /month",,,1 Room,1 Bathroom,No Balcony,2000.0,,"aashirwad apartment
+Mahalaxmi Nagar, Indore",Bachelors (Men/Women),,Immediate,"Owner on Jun 05, 2024",Ceramic,1st   of 2 Floors,,0 to 1 Year Old,1 Months,,Charges not included,"False Ceiling Lighting
+Water Storage
+Park
+Internet/wi-fi connectivity",4.3
+123,23,Highway New York City,3 Bedroom House for rent,"₹10,000 /month",,,3 Bedrooms,4 Bathrooms,1 Balcony,,1188.0,"Highway New York City
+Morod, Indore",All,,,"Dealer on Jun 06, 2024",Vitrified,,,5 to 10 Year Old,1 Months,Yes,Charges not included,,
+124,24,Shubh Complex,2 BHK Flat for rent,"₹20,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,750.0,650.0,"Shubh Complex
+Manishpuri , Indore",All,,,"Owner on Jun 14, 2024",Vitrified,2nd   of 5 Floors,,10+ Year Old,2 Months,,Charges not included,,
+125,0,Man mandir apartment,3 BHK Flat for rent,"₹18,000 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,1000.0,,"Man mandir apartment
+Saket Nagar , Indore",Family Only,,Immediate,"Owner on Jun 13, 2024",,1st   of 4 Floors,,5 to 10 Year Old,2 Months,,Charges not included,,4.1
+126,1,Surya Shreeji Valley,1 Bedroom House for rent,"₹8,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,,"Surya Shreeji Valley
+Bicholi Mardana, Indore","Family , Bachelors (Men Only)",,Immediate,"Owner on Jun 27, 2024",,,,0 to 1 Year Old,1 Months,,Charges not included,"Water Storage
+Visitor Parking
+Rain Water Harvesting",4.0
+127,2,Tirumala Town,2 BHK Flat for rent,"₹14,000 /month",,,2 Bedrooms,2 Bathrooms,3 Balconies,1330.0,900.0,"Tirumala Town
+Super Corridor, Indore","Family , Bachelors (Women Only)",,Immediate,"Owner on Jun 09, 2024",Vitrified,9th   of 9 Floors,Full,1 to 5 Year Old,2 Months,Yes,Charges not included,"Lift(s)
+Swimming Pool
+Park
+Security Personnel
+Airy Rooms
+Low Density Society
+Fitness Centre / GYM
+Club house / Community Center
+Rain Water Harvesting",4.1
+128,3,Amrit Palace,3 Bedroom House for rent,"₹26,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"Amrit Palace
+Nipania, Indore",Family Only,,Immediate,"Dealer on Jun 17, 2024",Wood,,,1 to 5 Year Old,1 Months,,Charges not included,Private Garden / Terrace,4.3
+129,4,Matrika Casa Greens,3 Bedroom House for rent,"₹25,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"Matrika Casa Greens
+Talawali Chanda, Indore",Family Only,,,"Dealer on Jun 06, 2024",Vitrified,,Partial,1 to 5 Year Old,1 Months,Yes,Charges not included,"Private Garden / Terrace
+Maintenance Staff
+Water Storage
+Visitor Parking",4.0
+130,5,Apollo DB City,3 BHK Flat for rent,"₹35,100 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,1982.0,1300.0,"Apollo DB City
+Nipania, Indore",All,,Immediate,"Dealer on May 08, 2024",Marble,4th   of 13 Floors,Partial,5 to 10 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Power Back-up
+Feng Shui / Vaastu Compliant
+Intercom Facility
+Lift(s)
+Water purifier
+High Ceiling Height
+Maintenance Staff
+False Ceiling Lighting
+Water Storage
+Piped-gas
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Internet/wi-fi connectivity
+Shopping Centre
+Fitness Centre / GYM
+Rain Water Harvesting
+Club house / Community Center",4.1
+131,6,Premier Towers,3 BHK Flat for rent,"₹40,500 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,1300.0,"Premier Towers
+Shalimar Township, Indore",All,,Immediate,"Dealer on May 08, 2024",Marble,6th   of 12 Floors,Full,1 to 5 Year Old,1 Months,Yes,Charges included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Lift(s)
+High Ceiling Height
+Maintenance Staff
+False Ceiling Lighting
+Water Storage
+Recently Renovated
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Spacious Interiors
+Fitness Centre / GYM
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center",4.0
+132,7,Premier Towers,3 BHK Flat for rent,"₹40,200 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,,1300.0,"Premier Towers
+Shalimar Township, Indore",All,,Immediate,"Dealer on May 07, 2024",Marble,2nd   of 6 Floors,,1 to 5 Year Old,2 Months,Yes,Charges not included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Lift(s)
+Water purifier
+High Ceiling Height
+False Ceiling Lighting
+Water Storage
+No open drainage around
+Recently Renovated
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Spacious Interiors
+Fitness Centre / GYM
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center
+Water softening plant",4.0
+133,8,Heaven Homes,2 BHK Flat for rent,"₹27,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,1174.0,,"Heaven Homes
+Scheme No 140 Indore, Indore",Family Only,,Immediate,"Dealer on Jun 03, 2024",,6th   of 6 Floors,Partial,1 to 5 Year Old,1 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Intercom Facility
+Lift(s)
+Maintenance Staff
+Water Storage
+Visitor Parking",4.3
+134,9,Signature Heights,2 BHK Flat for rent,"₹30,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,996.0,"Signature Heights
+Pipliyahana, Indore",All,,Immediate,"Dealer on May 10, 2024",Marble,4th   of 10 Floors,Full,Under Construction,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Lift(s)
+High Ceiling Height
+Maintenance Staff
+False Ceiling Lighting
+Water Storage
+Separate entry for servant room
+No open drainage around
+Visitor Parking
+Park
+Shopping Centre
+Fitness Centre / GYM
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center
+Water softening plant",4.0
+135,10,Apollo DB City,3 BHK Flat for rent,"₹35,200 /month",,,3 Bedrooms,2 Bathrooms,2 Balconies,1982.0,1300.0,"Apollo DB City
+Nipania, Indore",All,,Immediate,"Dealer on May 08, 2024",Marble,5th   of 13 Floors,Partial,5 to 10 Year Old,1 Months,Yes,Charges not included,"Centrally Air Conditioned
+Water purifier
+Security / Fire Alarm
+Power Back-up
+Feng Shui / Vaastu Compliant
+Intercom Facility
+Lift(s)
+High Ceiling Height
+Maintenance Staff
+False Ceiling Lighting
+Water Storage
+No open drainage around
+Piped-gas
+Internet/wi-fi connectivity
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Spacious Interiors
+Waste Disposal
+Rain Water Harvesting
+Shopping Centre
+Fitness Centre / GYM
+Club house / Community Center",4.1
+136,11,Apollo DB City,3 BHK Flat for rent,"₹40,400 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,2142.0,"Apollo DB City
+Nipania, Indore",All,,Immediate,"Dealer on Jul 03, 2024",Marble,6th   of 15 Floors,Full,1 to 5 Year Old,2 Months,Yes,Charges not included,"Security / Fire Alarm
+Power Back-up
+Feng Shui / Vaastu Compliant
+Lift(s)
+Water purifier
+High Ceiling Height
+Maintenance Staff
+False Ceiling Lighting
+Water Storage
+Separate entry for servant room
+No open drainage around
+Recently Renovated
+Visitor Parking
+Swimming Pool
+Park
+Security Personnel
+Natural Light
+Airy Rooms
+Spacious Interiors
+Shopping Centre
+Fitness Centre / GYM
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center",4.1
+137,12,sahil residency,3 BHK Flat for rent,"₹50,000 /month",,,3 Bedrooms,3 Bathrooms,3 Balconies,,1850.0,"sahil residency
+Pipliyahana, Indore",Family Only,,Immediate,"Dealer on May 13, 2024",,8th   of 11 Floors,,1 to 5 Year Old,1 Months,,Charges not included,"Security / Fire Alarm
+Intercom Facility
+Lift(s)
+Maintenance Staff
+False Ceiling Lighting
+Water Storage
+Piped-gas",4.0
+138,13,"Vijay Nagar , Indore",2 Bedroom House for rent,"₹19,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,,,"Vijay Nagar , Indore",Family Only,,Immediate,"Dealer on Jun 28, 2024",Ceramic,,Full,1 to 5 Year Old,6 Months,,Charges not included,"Private Garden / Terrace
+Water Storage
+Park
+Rain Water Harvesting",4.4
+139,14,Mirchandani Shalimar Palms,3 BHK Flat for rent,"₹25,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,1640.0,,"Mirchandani Shalimar Palms
+Bicholi Mardana, Indore",Family Only,,Immediate,"Dealer on Jul 01, 2024",Vitrified,5th   of 7 Floors,Partial,10+ Year Old,1 Months,Yes,Charges not included,,4.0
+140,15,Tirumala greens phase -I,2 BHK Flat for rent,"₹15,500 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,1000.0,650.0,"Tirumala greens phase -I
+Nipania, Indore",Family Only,,Immediate,"Owner on Jun 15, 2024",Ceramic,1st   of 3 Floors,,0 to 1 Year Old,2 Months,Yes,Charges not included,"Feng Shui / Vaastu Compliant
+Private Garden / Terrace
+Water Storage
+No open drainage around
+Park
+Visitor Parking
+Security Personnel
+Natural Light
+Airy Rooms
+Spacious Interiors
+Low Density Society
+Rain Water Harvesting",4.3
+141,16,"Scheme No 114, Indore",1 Bedroom House for rent,"₹16,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,,,"Scheme No 114 Indore, Indore",Family Only,,,"Dealer on Jun 18, 2024",Vitrified,,Partial,5 to 10 Year Old,1 Months,,Charges not included,"False Ceiling Lighting
+Water Storage
+No open drainage around
+Visitor Parking",
+142,17,rudraksha pride,2 BHK Flat for rent,"₹12,000 /month",,,2 Bedrooms,2 Bathrooms,2 Balconies,1037.0,741.0,"rudraksha pride
+Rau Pitampur Road , Indore",Family Only,,Immediate,"Dealer on Jun 18, 2024",Ceramic,2nd   of 6 Floors,,0 to 1 Year Old,2 Months,Yes,Charges not included,,
+143,18,Saakaar Atlanta Aura,3 BHK Flat for rent,"₹40,000 /month",,,3 Bedrooms,3 Bathrooms,2 Balconies,2655.0,1790.0,"Saakaar Atlanta Aura
+Nipania, Indore",Family Only,,,"Dealer on Jun 18, 2024",Marble,7th   of 10 Floors,Full,5 to 10 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Intercom Facility
+Lift(s)
+Maintenance Staff
+Water Storage
+No open drainage around
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Spacious Interiors
+Low Density Society
+Shopping Centre
+Fitness Centre / GYM
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center",4.3
+144,19,Orange BCM Park,2 BHK Flat for rent,"₹35,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,1430.0,1000.0,"Orange BCM Park
+Pipliya Kumar, Indore",Family Only,,,"Dealer on Jun 18, 2024",,6th   of 14 Floors,,1 to 5 Year Old,1 Months,,Charges not included,"Feng Shui / Vaastu Compliant
+Security / Fire Alarm
+Intercom Facility
+Lift(s)
+Water purifier
+Maintenance Staff
+Water Storage
+Park
+Visitor Parking
+Natural Light
+Airy Rooms
+Spacious Interiors",
+145,20,Siddhivinayak Maple Woods,3 BHK Flat for rent,"₹30,000 /month",,,3 Bedrooms,3 Bathrooms,3 Balconies,2206.4,1450.0,"Siddhivinayak Maple Woods
+Pipliya Kumar, Indore",All,,,"Dealer on Jun 11, 2024",Ceramic,8th   of 16 Floors,Full,5 to 10 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Feng Shui / Vaastu Compliant
+Intercom Facility
+Lift(s)
+Maintenance Staff
+Water Storage
+No open drainage around
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Internet/wi-fi connectivity
+Spacious Interiors
+Shopping Centre
+Fitness Centre / GYM
+Waste Disposal
+Rain Water Harvesting
+Club house / Community Center",
+146,21,Mirchandani Shalimar Palms,2 BHK Flat for rent,"₹17,000 /month",,,2 Bedrooms,2 Bathrooms,1 Balcony,1200.0,,"Mirchandani Shalimar Palms
+Bicholi Mardana, Indore",Family Only,,Immediate,"Dealer on Jul 01, 2024",Vitrified,6th   of 7 Floors,Partial,10+ Year Old,1 Months,Yes,Charges not included,,4.0
+147,22,Apollo DB City,1 BHK Flat for rent,"₹21,000 /month",,,1 Bedroom,1 Bathroom,1 Balcony,630.0,450.0,"Apollo DB City
+Nipania, Indore",All,,,"Dealer on Jun 14, 2024",Vitrified,7th   of 15 Floors,Full,5 to 10 Year Old,1 Months,Yes,Charges not included,"Security / Fire Alarm
+Power Back-up
+Feng Shui / Vaastu Compliant
+Lift(s)
+High Ceiling Height
+Maintenance Staff
+Water Storage
+No open drainage around
+Visitor Parking
+Swimming Pool
+Park
+Natural Light
+Airy Rooms
+Internet/wi-fi connectivity
+Spacious Interiors
+Shopping Centre
+Fitness Centre / GYM
+Rain Water Harvesting
+Club house / Community Center",4.1
+148,23,County Walk Villa Kent,3 Bedroom House for rent,"₹20,000 /month",,,3 Bedrooms,3 Bathrooms,1 Balcony,,,"County Walk Villa Kent
+Jhalaria, Indore",Family Only,,Immediate,"Dealer on Jul 01, 2024",Vitrified,,,0 to 1 Year Old,1 Months,Yes,Charges not included,,3.8
+149,24,"Casa Greens, Indore",2 Bedroom House for rent,"₹21,000 /month",,,2 Bedrooms,3 Bathrooms,1 Balcony,,,"Casa Greens, Indore",Family Only,,,"Dealer on Jul 04, 2024",Vitrified,,Partial,1 to 5 Year Old,1 Months,Yes,Charges not included,"Private Garden / Terrace
+Maintenance Staff
+Water Storage
+Visitor Parking
+Rain Water Harvesting",
