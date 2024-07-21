@@ -5,3 +5,4 @@ selenium==4.23.0
 python-dotenv==1.0.1
 webdriver-manager==4.0.1
 seaborn==0.13.2
+regex==2024.5.15
