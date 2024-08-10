@@ -1,4 +1,7 @@
-numpy
-pandas
+plotly
+seaborn
+st_pages
 streamlit
+streamlit_option_menu
+matplotlib
 scikit-learn
