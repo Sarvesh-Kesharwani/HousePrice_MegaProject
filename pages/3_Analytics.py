@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # Set the title of the app
-st.title('Get House recommendations with the features you are looking in your house')
+st.title('Some patterns that may help you with house hunting')
 
 # Dropdown for selecting house type
 house_type = st.selectbox('Select the type of house:', ['House', 'Flat'])
